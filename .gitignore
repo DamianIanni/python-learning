@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env
+.venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Logs y temporales
+*.log
+*.swp
+*.swo
+
+# Datasets y modelos
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.sav
+*.pt
+*.pth
+/models/
+
+# Otros
+.DS_Store
